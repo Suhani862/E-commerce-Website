@@ -953,30 +953,25 @@ footer .copyright{
 #product1 .pro{
     margin: 15px;
 }
-#banner{
-    height:25vh;
-    padding:10px
-}
-#sm-banner{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-#sm-banner .banner-box{
-    min-width:100%;
-    height:30vh;
-}
-#sm-banner .banner-box2{
-    margin-top: 20px;
-    min-width:100%;
-    height:30vh;
-}
-#banner3{
-    padding: 0 40px;
-}
-#banner3 .banner-box{
-    width:28%;
-}
+  #banner{
+        height:25vh;
+        padding:10px;
+    }
+    
+    #sm-banner .banner-box{
+        min-width:100%;
+        height:30vh;
+    }
+    #sm-banner .banner-box2{
+        margin-top: 25px;
+    }
+    
+    #banner-3{
+        padding: 0 40px; 
+    }
+    #banner-3 .banner-box{
+        width:26%;
+    }
 #blog {
         padding: 30px 20px;
     }
