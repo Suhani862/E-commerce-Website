@@ -972,6 +972,16 @@ footer .copyright{
     #banner3 .banner-box{
         width:26%;
     }
+
+    #newsletter .form{
+        width:70%;
+    }
+     #form-details{
+        padding:30px;
+     }
+     #form-details form{
+        width:55%;
+     }
 #blog {
         padding: 30px 20px;
     }
