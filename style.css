@@ -421,7 +421,7 @@ button.white{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url("photos/b14.png");
+    background-image: url("Product/b14.png");
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -525,7 +525,7 @@ footer .copyright{
 
 /* /shop page */
 #page-header{
-    background-image: url(Product/banner4.png);    
+    background-image: url("Product/banner4.png");    
     width: 100%;
     height: 40vh;
     background-size: cover ;
